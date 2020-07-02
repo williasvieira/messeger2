@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "235338394473",
+    "firebase_url": "https://ultimavez-6e652.firebaseio.com",
+    "project_id": "ultimavez-6e652",
+    "storage_bucket": "ultimavez-6e652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235338394473:android:a0d7f8d7863b16c2ffabf8",
+        "android_client_info": {
+          "package_name": "com.example.messeger2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235338394473-32vfdkvefrti21ft7p6ca2ki0dbd0adp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messeger2",
+            "certificate_hash": "91327086de88ca15e7fa67568454bccda45d7ee5"
+          }
+        },
+        {
+          "client_id": "235338394473-oo8vi29s25tij2p5cu3d4vhum9o7km34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcHZAi0nPt4eBr3GsF17j4n3NokIX3At8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235338394473-oo8vi29s25tij2p5cu3d4vhum9o7km34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
